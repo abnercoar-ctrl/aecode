@@ -1,0 +1,2 @@
+# Solo para comprobación visual automatizada; no se requiere en producción.
+playwright==1.64.0

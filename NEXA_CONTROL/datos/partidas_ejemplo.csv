@@ -1,0 +1,9 @@
+﻿proyecto,codigo,descripcion,frente,unidad,metrado_contratado,precio_unitario,fecha_inicio,fecha_fin
+Proyecto DEMO A,TR-001,Excavación de plataforma,Movimiento de tierras,m³,1000.0,20.0,2026-01-01,2026-04-30
+Proyecto DEMO A,TR-002,Relleno compactado,Movimiento de tierras,m³,500.0,40.0,2026-01-01,2026-05-31
+Proyecto DEMO A,TR-003,Canal de concreto,Drenaje,m,200.0,150.0,2026-01-01,2026-06-30
+Proyecto DEMO A,TR-004,Conformación de accesos,Accesos,m²,1000.0,10.0,2026-01-01,2026-06-30
+Proyecto DEMO A,TR-005,Señalización de acceso,Accesos,und,20.0,500.0,2026-04-01,2026-06-30
+Proyecto DEMO A,TR-006,Limpieza final,Accesos,m²,2000.0,5.0,2026-05-01,2026-06-30
+Proyecto DEMO B,TR-001,Excavación de cuneta,Drenaje,m³,400.0,25.0,2026-01-01,2026-06-30
+Proyecto DEMO B,TR-002,Revestimiento de cuneta,Drenaje,m,100.0,200.0,2026-01-01,2026-06-30
